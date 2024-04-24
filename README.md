@@ -18,7 +18,7 @@ https://discord.com/oauth2/authorize?client_id=1232394493546856609
 - Changed prefix to `x` to be uniform with xBEARR
 - Added and about page
 	- `xabout`
-
+- Added Slash functionality
 
 
 ## Roadmap 2024
