@@ -1,0 +1,2 @@
+# xbearr.ai
+Discord Bot
