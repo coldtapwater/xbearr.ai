@@ -1,6 +1,7 @@
 ## Install
 
 https://discord.com/oauth2/authorize?client_id=1232394493546856609
+
 **xBEARR.AI** requires the ability to:
 - send messages
 - read message history (data is not collected)
