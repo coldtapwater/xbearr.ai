@@ -2,7 +2,6 @@
 
 https://discord.com/oauth2/authorize?client_id=1232394493546856609
 
-> [!note] %% %%
 > # __Current Version__
 > ## Version 1.0.2
 
