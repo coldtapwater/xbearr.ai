@@ -2,6 +2,11 @@
 
 https://discord.com/oauth2/authorize?client_id=1232394493546856609
 
+> [!note] %% %%
+> # __Current Version__
+> ## Version 1.0.2
+
+
 **xBEARR.AI** requires the ability to:
 - send messages
 - read message history (data is not collected)
@@ -19,6 +24,15 @@ https://discord.com/oauth2/authorize?client_id=1232394493546856609
 - Added and about page
 	- `xabout`
 - Added Slash functionality
+
+## Version 1.0.2
+- Added `xf1stats` to list of commands available
+  	- `results`
+  	- `standings`
+  	- `nextrace`
+  	- `drivers`
+  	- `leaderboard`
+- Added custom emojis to some responses
 
 
 ## Roadmap 2024
