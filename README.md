@@ -3,7 +3,7 @@
 https://discord.com/oauth2/authorize?client_id=1232394493546856609
 
 > # __Current Version__
-> ## Version 1.0.2
+> ## Version 1.0.3
 
 
 **xBEARR.AI** requires the ability to:
@@ -32,6 +32,14 @@ https://discord.com/oauth2/authorize?client_id=1232394493546856609
   	- `drivers`
   	- `leaderboard`
 - Added custom emojis to some responses
+
+## Version 1.0.3
+-Added `xsummarize` to list of commands
+	- Takes the following parameters:
+ 		- `topic:`
+   		- `number of messages`
+- Removed `xf1stats` because the command tree was too convoluted
+- Changed Groq model for summaries to `Mixtral 8x7B (32756)`
 
 
 ## Roadmap 2024
