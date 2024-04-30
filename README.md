@@ -36,8 +36,7 @@ https://discord.com/oauth2/authorize?client_id=1232394493546856609
 ## Version 1.0.3
 - Changed `xbearr` to `xq` or `/q` for queries 
 - Added `xsummarize` to list of commands
-	- Takes the following parameters:
- 		- `topic:`
+	- Takes the following parameter:
    		- `number of messages`
 - Removed `xf1stats` because the command tree was too convoluted
 - Changed Groq model for summaries to `Mixtral 8x7B (32756)`
