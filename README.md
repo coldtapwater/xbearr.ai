@@ -34,7 +34,8 @@ https://discord.com/oauth2/authorize?client_id=1232394493546856609
 - Added custom emojis to some responses
 
 ## Version 1.0.3
--Added `xsummarize` to list of commands
+- Changed `xbearr` to `xq` or `/q` for queries 
+- Added `xsummarize` to list of commands
 	- Takes the following parameters:
  		- `topic:`
    		- `number of messages`
