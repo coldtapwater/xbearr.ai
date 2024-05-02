@@ -2,10 +2,6 @@
 ### Support Me on Patreon and get access to some benefits
 https://patreon.com/tylerthebean?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
-## Install
-
-https://discord.com/oauth2/authorize?client_id=1232394493546856609
-
 > # __Current Version__
 > ## Version 1.0.3b
 
